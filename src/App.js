@@ -12,7 +12,9 @@ function App() {
 
       </header>
       
+      <div style={{maxHeight:"100vh"}}>
       <Myphoto/>
+      </div>
 
     </div>
   );

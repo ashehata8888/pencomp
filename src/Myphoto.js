@@ -64,7 +64,7 @@ useEffect(() => {
 return (
   <div>
     {photoUrls.map((url, index) => (
-      <img style={{width:"200vh"}}  key={index} src={url} alt="Photo" />
+       <img style={{width:"180vh"}}  key={index} src={url} alt="Photo" />
     ))}
   </div>
 );
