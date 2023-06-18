@@ -1,0 +1,14 @@
+.container{
+  width: 600px !important;
+  margin: 20px;
+}
+
+.content {
+  margin: 20px 0;
+  width: 100vh;
+  
+}
+
+.preview {
+  max-width: 150vh;
+}
